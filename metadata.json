@@ -1,0 +1,6 @@
+{
+  "name": "주택연금 월지급금 계산기",
+  "description": "한국주택금융공사 공식 표 기준 종신지급방식 정액형 주택연금 월지급금 및 손익분기 계산기",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
